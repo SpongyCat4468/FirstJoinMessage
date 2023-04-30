@@ -1,0 +1,7 @@
+name: FirstJoinMessage
+version: '${project.version}'
+main: me.spongycat.firstjoinmessage.FirstJoinMessage
+api-version: 1.19
+load: STARTUP
+authors: [SpongyCat]
+description: Allowing server customizing first time join message for players who has joined the first time.
